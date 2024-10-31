@@ -1,6 +1,6 @@
 # Summary
 
-* [Web CX Design/Dev Architect](README.md)
+## [Web CX Design/Dev Architect](README.md)
 
 ## Process
 * [Product Thinking](docs/TechRole/ProductThinking/product-thinking.md)
@@ -16,9 +16,9 @@
     * [UI Stages](docs/TechRole/UI/ui-stages.md)
     * [Figma](docs/TechRole/UI/Figma/figma.md)
         * [File Structure](docs/TechRole/UI/Figma/file-structures.md)
-* [Development](docs/TechRole/UI/practices.md)
+* [Development](docs/TechRole/Development/practices.md)
     * [Documentation](docs/TechRole/Development/documentation-practices.md)
-       * [README](docs/TechRole/Development/readme.md) 
+       * [README](docs/TechRole/Development/readme.md)
        * [Changelog](docs/TechRole/Development/changelog.md)
     * [Comments](docs/TechRole/Development/comments-practices.md)
     * [Security](docs/TechRole/Development/security-practices.md)
@@ -51,5 +51,3 @@
 * [Styleguide](docs/TechRole/Styleguide/styleguides.md)
 * [Ticketing](docs/TechRole/Ticketing/card.md)
     * [Statuses](docs/TechRole/Ticketing/card.md)
-
-

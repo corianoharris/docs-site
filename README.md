@@ -6,7 +6,6 @@ This is the main documentation for our project. Here you'll find comprehensive g
 
 ### Table of Contents
 
-- [Chapter 1: Getting Started](CHAPTER-ONE.md)
 
 ### Project Overview
 
