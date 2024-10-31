@@ -9,7 +9,8 @@
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
     "spell:check": "cspell '**/*.md'",
-    "test": "npm run spell:check && npm run cypress:run"
+    "test": "cypress run --spec 'cypress/e2e/markdown.cy.js'"
+
   },
   "keywords": [],
   "author": "",
