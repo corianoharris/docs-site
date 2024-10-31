@@ -1,0 +1,8 @@
+{
+  "label": "UI",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "UI design best practice concepts."
+  }
+}

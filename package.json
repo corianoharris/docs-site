@@ -1,0 +1,29 @@
+{
+  "name": "gitbook-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:serve": "honkit serve",
+    "docs:build": "honkit build",
+    "start": "honkit serve",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "spell:check": "cspell '**/*.md'",
+    "test": "npm run spell:check && npm run cypress:run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.8.5",
+    "cspell": "^8.15.5",
+    "cypress": "^13.15.1",
+    "honkit": "^6.0.2"
+  },
+  "dependencies": {
+    "gitbook-plugin-copy-code": "^4.0.0-alpha.1",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-hints": "^1.0.2"
+  }
+}

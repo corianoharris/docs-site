@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Build output
+_book/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Misc
+.DS_Store
+*.log
+

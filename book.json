@@ -1,0 +1,16 @@
+{
+    "title": "My Documentation",
+    "description": "Project documentation with HonKit",
+    "author": "Your Name",
+    "language": "en",
+    "root": ".",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "plugins": [
+        "gitbook-plugin-copy-code",
+        "gitbook-plugin-expandable-chapters",
+        "gitbook-plugin-hints"
+    ]
+}
