@@ -8,9 +8,7 @@
     "start": "honkit serve",
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
-    "spell:check": "cspell '**/*.md'",
     "test": "cypress run --spec 'cypress/e2e/markdown.cy.js'"
-
   },
   "keywords": [],
   "author": "",
@@ -18,7 +16,6 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^22.8.5",
-    "cspell": "^8.15.5",
     "cypress": "^13.15.1",
     "honkit": "^6.0.2"
   },
