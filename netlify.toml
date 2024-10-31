@@ -1,8 +1,8 @@
 [build]
-  command = "npm run honkit build"
-  publish = "_book"
+  command = "honkit build"
+  publish = "_book/"
 
 [publish]
-  command = "npm run honkit build"
-  publish = "_book"
+  command = "honkit build"
+  publish = "_book/"
 
