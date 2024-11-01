@@ -1,8 +1,6 @@
----
-sidebar_position: 1
----
-
 # Figma Best Practices
+
+![Figma For Devs](https://stevekinney.net/courses/figma)
 
 ## Accessibility
 Ensuring accessibility is crucial when designing user interfaces. Figma provides several features to help create accessible designs:
@@ -98,3 +96,4 @@ As a front-end developer, Figma can streamline your design-to-development workfl
 - Figma to Code: Generate production-ready HTML, CSS, and React code from Figma.
 - Anima: Convert Figma designs into production-ready React or Vue components.
 - Figma Tokens: Manage design tokens (colors, typography, etc.) in Figma.
+

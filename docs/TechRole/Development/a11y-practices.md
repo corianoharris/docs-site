@@ -2,6 +2,8 @@
 
 # A11y Practices
 
+![Learn A11y](https://web-accessibility-v3.vercel.app/topics)
+
 ## Web Content Accessibility Guidelines (WCAG)
 
 - **A: Essential**: If this isn't met, assistive technology may not be able to read, understand, or fully operate the page or view.

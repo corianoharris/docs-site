@@ -1,6 +1,8 @@
 
 # Design System Guidelines
 
+![DS for Devs](https://stevekinney.net/courses/storybook)
+
 A well-structured design system ensures consistency, scalability, and efficiency in design and development across products. This document outlines governance, token naming conventions, Figma file organization, component naming structure, and a playground environment to test and iterate on components.
 
 ## 1. Design System Governance

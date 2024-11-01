@@ -15,3 +15,5 @@
 - **Use transactions to ensure data consistency**: Transactions are groups of database operations that are executed together as a single unit. Use transactions to ensure that data is consistent and accurate even in the event of errors or system failures.
 
 - **Regularly backup and maintain your database**: Backing up your database regularly is essential for ensuring that your data is safe in the event of a system failure or other disaster. Regular maintenance, such as removing unused indexes or optimizing queries, can also help to improve database performance and reduce the risk of errors.
+
+![Understanding SQL](https://sqlite.holt.courses/lessons/basic-sql/insert)
