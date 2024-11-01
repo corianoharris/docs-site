@@ -3,7 +3,7 @@
 # Interviewing Practices
 
 - Be on time: Be 10-15 early.
-- Be familar with the device ordevcies used during the interview.
+- Be familiar with the device or devices used during the interview.
 - Know the interviewer’s name, its spelling, and pronunciation.
 - Have some questions of your own prepared in advance.
 - Bring several copies of your resume if in person.
@@ -17,7 +17,7 @@
 - Wait for the interviewer to mention salary and benefits: If you know, tell the interviewer. If you don't know, let them know I'm still researching the market average for my role but I'm curious to hear what the salary range is.
 - Close on a positive, enthusiastic note.
 - No interview is complete until you follow up with a thank-you note.
-- Make sure you have general knowledge of the company: Mission Statment, Products, Accomplishments
+- Make sure you have general knowledge of the company: Mission Statement, Products, Accomplishments
 - General Technical Knowledge
 - åsk about the Culture
 - formula: Prior Experience question: Answer with: The team had [x] need and I learned to do [y] in order to fill that need resulting in [z].
