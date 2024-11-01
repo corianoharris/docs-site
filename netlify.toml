@@ -1,8 +1,4 @@
 [build]
   command = "honkit build"
-  publish = "_book/"
-
-[publish]
-  command = "honkit build"
-  publish = "_book/"
+  publish = "_book"
 
